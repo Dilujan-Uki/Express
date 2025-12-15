@@ -1,0 +1,3 @@
+npm init -y
+npm intsall express --save
+npm install nodemon --save-dev
