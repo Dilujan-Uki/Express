@@ -1,3 +1,4 @@
-npm init -y
-npm intsall express --save
-npm install nodemon --save-dev
+npm init -y 
+npm intsall express --save ==> production dependencie
+npm install nodemon --save-dev ==>development+dependencie
+npm install body-parser --save ==>production dependencie
